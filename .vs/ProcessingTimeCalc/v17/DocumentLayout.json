@@ -1,0 +1,253 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\\u0423\u0447\u0435\u0431\u0430\\6 \u0421\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Task\\ProcessingTimeCalc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{125B4BD0-4DF7-41F5-8B22-ECAAABFDEFDE}|ProcessingTimeCalc.csproj|e:\\\u0443\u0447\u0435\u0431\u0430\\6 \u0441\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\task\\processingtimecalc\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{125B4BD0-4DF7-41F5-8B22-ECAAABFDEFDE}|ProcessingTimeCalc.csproj|solutionrelative:configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{125B4BD0-4DF7-41F5-8B22-ECAAABFDEFDE}|ProcessingTimeCalc.csproj|e:\\\u0443\u0447\u0435\u0431\u0430\\6 \u0441\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\task\\processingtimecalc\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{125B4BD0-4DF7-41F5-8B22-ECAAABFDEFDE}|ProcessingTimeCalc.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{125B4BD0-4DF7-41F5-8B22-ECAAABFDEFDE}|ProcessingTimeCalc.csproj|e:\\\u0443\u0447\u0435\u0431\u0430\\6 \u0441\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\task\\processingtimecalc\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{125B4BD0-4DF7-41F5-8B22-ECAAABFDEFDE}|ProcessingTimeCalc.csproj|solutionrelative:mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{125B4BD0-4DF7-41F5-8B22-ECAAABFDEFDE}|ProcessingTimeCalc.csproj|e:\\\u0443\u0447\u0435\u0431\u0430\\6 \u0441\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\task\\processingtimecalc\\operations\\collections\\collectionitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{125B4BD0-4DF7-41F5-8B22-ECAAABFDEFDE}|ProcessingTimeCalc.csproj|solutionrelative:operations\\collections\\collectionitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{125B4BD0-4DF7-41F5-8B22-ECAAABFDEFDE}|ProcessingTimeCalc.csproj|e:\\\u0443\u0447\u0435\u0431\u0430\\6 \u0441\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\task\\processingtimecalc\\operations\\collections\\collection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{125B4BD0-4DF7-41F5-8B22-ECAAABFDEFDE}|ProcessingTimeCalc.csproj|solutionrelative:operations\\collections\\collection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{125B4BD0-4DF7-41F5-8B22-ECAAABFDEFDE}|ProcessingTimeCalc.csproj|e:\\\u0443\u0447\u0435\u0431\u0430\\6 \u0441\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\task\\processingtimecalc\\operations\\miling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{125B4BD0-4DF7-41F5-8B22-ECAAABFDEFDE}|ProcessingTimeCalc.csproj|solutionrelative:operations\\miling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{125B4BD0-4DF7-41F5-8B22-ECAAABFDEFDE}|ProcessingTimeCalc.csproj|e:\\\u0443\u0447\u0435\u0431\u0430\\6 \u0441\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\task\\processingtimecalc\\operations\\grooving.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{125B4BD0-4DF7-41F5-8B22-ECAAABFDEFDE}|ProcessingTimeCalc.csproj|solutionrelative:operations\\grooving.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{125B4BD0-4DF7-41F5-8B22-ECAAABFDEFDE}|ProcessingTimeCalc.csproj|e:\\\u0443\u0447\u0435\u0431\u0430\\6 \u0441\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\task\\processingtimecalc\\operations\\operationitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{125B4BD0-4DF7-41F5-8B22-ECAAABFDEFDE}|ProcessingTimeCalc.csproj|solutionrelative:operations\\operationitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{125B4BD0-4DF7-41F5-8B22-ECAAABFDEFDE}|ProcessingTimeCalc.csproj|e:\\\u0443\u0447\u0435\u0431\u0430\\6 \u0441\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\task\\processingtimecalc\\universal\\csvreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{125B4BD0-4DF7-41F5-8B22-ECAAABFDEFDE}|ProcessingTimeCalc.csproj|solutionrelative:universal\\csvreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{125B4BD0-4DF7-41F5-8B22-ECAAABFDEFDE}|ProcessingTimeCalc.csproj|e:\\\u0443\u0447\u0435\u0431\u0430\\6 \u0441\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\task\\processingtimecalc\\processing\\toolsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{125B4BD0-4DF7-41F5-8B22-ECAAABFDEFDE}|ProcessingTimeCalc.csproj|solutionrelative:processing\\toolsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FA5AC47-1914-47C7-AB89-4EAAEA20D55A}|..\\ProcessingTimeCalc.Tests\\ProcessingTimeCalc.Tests.csproj|e:\\\u0443\u0447\u0435\u0431\u0430\\6 \u0441\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\task\\processingtimecalc.tests\\pdfwritertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{125B4BD0-4DF7-41F5-8B22-ECAAABFDEFDE}|ProcessingTimeCalc.csproj|e:\\\u0443\u0447\u0435\u0431\u0430\\6 \u0441\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\task\\processingtimecalc\\universal\\pdfwriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{125B4BD0-4DF7-41F5-8B22-ECAAABFDEFDE}|ProcessingTimeCalc.csproj|solutionrelative:universal\\pdfwriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FA5AC47-1914-47C7-AB89-4EAAEA20D55A}|..\\ProcessingTimeCalc.Tests\\ProcessingTimeCalc.Tests.csproj|e:\\\u0443\u0447\u0435\u0431\u0430\\6 \u0441\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\task\\processingtimecalc.tests\\objectpooltests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 428,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "E:\\\u0423\u0447\u0435\u0431\u0430\\6 \u0421\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Task\\ProcessingTimeCalc\\Configuration.cs",
+              "RelativeDocumentMoniker": "Configuration.cs",
+              "ToolTip": "E:\\\u0423\u0447\u0435\u0431\u0430\\6 \u0421\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Task\\ProcessingTimeCalc\\Configuration.cs",
+              "RelativeToolTip": "Configuration.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T21:21:15.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "E:\\\u0423\u0447\u0435\u0431\u0430\\6 \u0421\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Task\\ProcessingTimeCalc\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "MainForm.Designer.cs",
+              "ToolTip": "E:\\\u0423\u0447\u0435\u0431\u0430\\6 \u0421\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Task\\ProcessingTimeCalc\\MainForm.Designer.cs",
+              "RelativeToolTip": "MainForm.Designer.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAWwIsAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T10:45:28.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "E:\\\u0423\u0447\u0435\u0431\u0430\\6 \u0421\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Task\\ProcessingTimeCalc\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "E:\\\u0423\u0447\u0435\u0431\u0430\\6 \u0421\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Task\\ProcessingTimeCalc\\MainForm.cs",
+              "RelativeToolTip": "MainForm.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAnwF0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T18:32:57.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CollectionItem.cs",
+              "DocumentMoniker": "E:\\\u0423\u0447\u0435\u0431\u0430\\6 \u0421\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Task\\ProcessingTimeCalc\\Operations\\Collections\\CollectionItem.cs",
+              "RelativeDocumentMoniker": "Operations\\Collections\\CollectionItem.cs",
+              "ToolTip": "E:\\\u0423\u0447\u0435\u0431\u0430\\6 \u0421\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Task\\ProcessingTimeCalc\\Operations\\Collections\\CollectionItem.cs",
+              "RelativeToolTip": "Operations\\Collections\\CollectionItem.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAhwDMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T10:23:29.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Collection.cs",
+              "DocumentMoniker": "E:\\\u0423\u0447\u0435\u0431\u0430\\6 \u0421\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Task\\ProcessingTimeCalc\\Operations\\Collections\\Collection.cs",
+              "RelativeDocumentMoniker": "Operations\\Collections\\Collection.cs",
+              "ToolTip": "E:\\\u0423\u0447\u0435\u0431\u0430\\6 \u0421\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Task\\ProcessingTimeCalc\\Operations\\Collections\\Collection.cs",
+              "RelativeToolTip": "Operations\\Collections\\Collection.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAuwDAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T10:23:14.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Miling.cs",
+              "DocumentMoniker": "E:\\\u0423\u0447\u0435\u0431\u0430\\6 \u0421\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Task\\ProcessingTimeCalc\\Operations\\Miling.cs",
+              "RelativeDocumentMoniker": "Operations\\Miling.cs",
+              "ToolTip": "E:\\\u0423\u0447\u0435\u0431\u0430\\6 \u0421\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Task\\ProcessingTimeCalc\\Operations\\Miling.cs",
+              "RelativeToolTip": "Operations\\Miling.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAawCEAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T20:14:33.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Grooving.cs",
+              "DocumentMoniker": "E:\\\u0423\u0447\u0435\u0431\u0430\\6 \u0421\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Task\\ProcessingTimeCalc\\Operations\\Grooving.cs",
+              "RelativeDocumentMoniker": "Operations\\Grooving.cs",
+              "ToolTip": "E:\\\u0423\u0447\u0435\u0431\u0430\\6 \u0421\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Task\\ProcessingTimeCalc\\Operations\\Grooving.cs",
+              "RelativeToolTip": "Operations\\Grooving.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T20:14:27.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OperationItem.cs",
+              "DocumentMoniker": "E:\\\u0423\u0447\u0435\u0431\u0430\\6 \u0421\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Task\\ProcessingTimeCalc\\Operations\\OperationItem.cs",
+              "RelativeDocumentMoniker": "Operations\\OperationItem.cs",
+              "ToolTip": "E:\\\u0423\u0447\u0435\u0431\u0430\\6 \u0421\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Task\\ProcessingTimeCalc\\Operations\\OperationItem.cs",
+              "RelativeToolTip": "Operations\\OperationItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T18:24:51.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ToolsData.cs",
+              "DocumentMoniker": "E:\\\u0423\u0447\u0435\u0431\u0430\\6 \u0421\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Task\\ProcessingTimeCalc\\Processing\\ToolsData.cs",
+              "RelativeDocumentMoniker": "Processing\\ToolsData.cs",
+              "ToolTip": "E:\\\u0423\u0447\u0435\u0431\u0430\\6 \u0421\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Task\\ProcessingTimeCalc\\Processing\\ToolsData.cs",
+              "RelativeToolTip": "Processing\\ToolsData.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAgwEQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T20:03:51.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CSVReader.cs",
+              "DocumentMoniker": "E:\\\u0423\u0447\u0435\u0431\u0430\\6 \u0421\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Task\\ProcessingTimeCalc\\Universal\\CSVReader.cs",
+              "RelativeDocumentMoniker": "Universal\\CSVReader.cs",
+              "ToolTip": "E:\\\u0423\u0447\u0435\u0431\u0430\\6 \u0421\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Task\\ProcessingTimeCalc\\Universal\\CSVReader.cs",
+              "RelativeToolTip": "Universal\\CSVReader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T20:03:46.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ObjectPoolTests.cs",
+              "DocumentMoniker": "E:\\\u0423\u0447\u0435\u0431\u0430\\6 \u0421\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Task\\ProcessingTimeCalc.Tests\\ObjectPoolTests.cs",
+              "RelativeDocumentMoniker": "..\\ProcessingTimeCalc.Tests\\ObjectPoolTests.cs",
+              "ToolTip": "E:\\\u0423\u0447\u0435\u0431\u0430\\6 \u0421\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Task\\ProcessingTimeCalc.Tests\\ObjectPoolTests.cs",
+              "RelativeToolTip": "..\\ProcessingTimeCalc.Tests\\ObjectPoolTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T10:13:28.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PDFWriterTests.cs",
+              "DocumentMoniker": "E:\\\u0423\u0447\u0435\u0431\u0430\\6 \u0421\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Task\\ProcessingTimeCalc.Tests\\PDFWriterTests.cs",
+              "RelativeDocumentMoniker": "..\\ProcessingTimeCalc.Tests\\PDFWriterTests.cs",
+              "ToolTip": "E:\\\u0423\u0447\u0435\u0431\u0430\\6 \u0421\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Task\\ProcessingTimeCalc.Tests\\PDFWriterTests.cs",
+              "RelativeToolTip": "..\\ProcessingTimeCalc.Tests\\PDFWriterTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T10:12:16.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PDFWriter.cs",
+              "DocumentMoniker": "E:\\\u0423\u0447\u0435\u0431\u0430\\6 \u0421\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Task\\ProcessingTimeCalc\\Universal\\PDFWriter.cs",
+              "RelativeDocumentMoniker": "Universal\\PDFWriter.cs",
+              "ToolTip": "E:\\\u0423\u0447\u0435\u0431\u0430\\6 \u0421\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Task\\ProcessingTimeCalc\\Universal\\PDFWriter.cs",
+              "RelativeToolTip": "Universal\\PDFWriter.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAlwBkAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T10:07:58.831Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 162,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
